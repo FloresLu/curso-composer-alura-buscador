@@ -41,5 +41,7 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do código. PHAN, PHPCS"
-    }
+    },
+    "license": "glp3.0",
+    "bin": ["buscar-cursos.php"]
 }
